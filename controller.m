@@ -60,15 +60,15 @@ if r_lmo(2) < 0
 end
 
 
-
+%error_target = error_comunication;
 
 mrp_BR = error_target(1:3);
 omega_BR = error_target(4:6);
 
 %%
 %control
-K = 0.0055;
-P = 0.1667;
+K = 0.0055;    %%0.0055
+P = 0.1667;    %%0.1667
 
 
 u = - K*mrp_BR - P*omega_BR;

@@ -21,7 +21,7 @@ Rc = [r1,r2,r3];
 
 %inertial frame to Rc frame 
 
-RcN = Rc';
+RcN = Rc';    %put transpose '
 
 C = RcN;
 
