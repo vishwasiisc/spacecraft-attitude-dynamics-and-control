@@ -151,7 +151,7 @@ movegui('northeast')
  %mrp(:,end)
  
 
- animate(soln1,15,lmo_orbit,gmo_orbit,p,t,0)
+ animate(soln1,60,lmo_orbit,gmo_orbit,p,t,0)
 
 
 
