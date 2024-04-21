@@ -82,7 +82,7 @@ if save
 end
 %}
 
-%whitebg([0,0,0])
+whitebg([0,0,0])
 
 hold on
 
