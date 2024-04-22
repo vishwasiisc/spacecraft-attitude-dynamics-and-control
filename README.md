@@ -11,3 +11,8 @@ Sample
 https://drive.google.com/drive/folders/1dbVp_wjOABPz7xmsCf_VRoHH-cdf0xv5?usp=sharing
 
 To initiate simulation run main_spacecraft_attitude_dynamics.m
+
+
+
+https://github.com/vishwasiisc/spacecraft-attitude-dynamics-and-control/assets/126489809/65c0e85c-2a6b-4ca1-8779-3170b6092926
+
