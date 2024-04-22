@@ -7,9 +7,6 @@ Different mission target frames, such as the sun-pointing frame, nadir-pointing 
 
 Additional mission modes and control strategies can be implemented within the 'controller.m' file.
 
-Sample
-https://drive.google.com/drive/folders/1dbVp_wjOABPz7xmsCf_VRoHH-cdf0xv5?usp=sharing
-
 To initiate simulation run main_spacecraft_attitude_dynamics.m
 
 
